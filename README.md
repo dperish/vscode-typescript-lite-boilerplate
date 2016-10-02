@@ -9,7 +9,7 @@
 
 ## Running The Server ##
 1. Press [CTRL]+[SHIFT]+[B]
-2. Press [`]+[T] and type "npm start" in the terminal 
+2. Press [CTRL]+[`] and type "npm start" in the terminal 
 3. Press [F5] to open Chrome for debugging 
 
 ## Notes ##
