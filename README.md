@@ -1,5 +1,5 @@
 # vscode-typescript-liteserver-boilerplate
-**Starter project for serving-up a vanilla TypeScript app via lite-server, with debugging and automatic compilation/browser reload enabled**
+**Starter project for serving-up a vanilla TypeScript app via lite-server, with support for debugging, automatic re-compilation and browser-reload enabled by default**
 
 ## Prerequisites ##
 - VSCode - https://code.visualstudio.com/docs/?dv=win
