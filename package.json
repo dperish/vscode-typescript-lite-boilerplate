@@ -1,0 +1,14 @@
+{ 
+   "name": "vscode-typescript-lite-boilerplate", 
+   "version": "1.0.0", 
+   "description": "Starter Visual Studio Code project for serving-up a vanilla TypeScript app with lite-server.", 
+   "scripts": { 
+     "lite": "lite-server –port 3000", 
+     "start": "npm run lite" 
+   }, 
+   "author": "David Lee Perish", 
+   "license": "MIT", 
+   "devDependencies": { 
+     "lite-server": "^1.3.1" 
+   } 
+}
