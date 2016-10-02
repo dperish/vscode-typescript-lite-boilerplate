@@ -20,7 +20,7 @@ namespace VSCodeTypeScriptLiteBoilerplate {
     }
 
     window.addEventListener("load", function () {
-        var app = new App("Hello TypeScript World !         !       !      !    !   !  ! !!");
+        var app = new App("Hello TypeScript World!");
     })    
 
 }
