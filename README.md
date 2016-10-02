@@ -26,3 +26,7 @@
 - Execute **npm start** as part of the build tasks
 - Add config file for lite-server to select alternate port
 - Add some meaningful tests
+
+## License
+
+This code is free (as in free-love), and is provided under The MIT License (MIT)
